@@ -1,0 +1,5 @@
+﻿@MovieSoundTrack_HostAddress = https://localhost:5001
+
+GET {{MovieSoundTrack_HostAddress}}/movies
+
+###

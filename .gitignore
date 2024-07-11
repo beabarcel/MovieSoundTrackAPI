@@ -1,0 +1,11 @@
+.vs/
+obj/
+bin/
+*.suo
+*.user
+*.sln.docstates
+
+*.apk
+*.ap_
+*.aab
+*.class
