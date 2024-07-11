@@ -1,7 +1,9 @@
 # Movie Sound Track API
 Este repositório contém uma API minimalista para fornecer trilhas sonoras de filmes. A API permite consultar filmes e obter suas respectivas listas de músicas, facilitando a busca por informações detalhadas sobre as trilhas sonoras de diversos filmes.
 
+
 **Funcionalidades**
+
 
 • Listar Filmes: 
 
@@ -15,7 +17,9 @@ Obtenha as músicas de um filme específico ao fornecer o título do filme.
 
 Encontre filmes com base no gênero e veja suas trilhas sonoras.
 
+
 **Tecnologias Utilizadas:**
+
 
 • .NET Core para a criação da API;
 
