@@ -5,13 +5,13 @@ Este repositório contém uma API minimalista para fornecer trilhas sonoras de f
 **Funcionalidades**
 
 
-• Listar Filmes: 
+• Listar Filmes:<br>
   Obtenha uma lista de todos os filmes disponíveis na API.
 
-• Consultar Trilha Sonora:
+• Consultar Trilha Sonora:<br>
   Obtenha as músicas de um filme específico ao fornecer o título do filme.
 
-• Filtrar por Gênero: 
+• Filtrar por Gênero:<br>
   Encontre filmes com base no gênero e veja suas trilhas sonoras.
 
 
