@@ -15,5 +15,7 @@ Encontre filmes com base no gênero e veja suas trilhas sonoras.
 **Tecnologias Utilizadas:**
 
 • .NET Core para a criação da API;
+
 • Entity Framework Core para gerenciamento do banco de dados em memória;
+
 • C# como linguagem de programação.
